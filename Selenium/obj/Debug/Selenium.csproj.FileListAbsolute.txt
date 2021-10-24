@@ -18,3 +18,25 @@ C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.csprojRe
 C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
 C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.dll
 C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.pdb
+C:\Pam training\Specflow\Selenium\bin\Debug\Selenium.dll
+C:\Pam training\Specflow\Selenium\bin\Debug\Selenium.pdb
+C:\Pam training\Specflow\Selenium\bin\Debug\WebDriver.dll
+C:\Pam training\Specflow\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Pam training\Specflow\Selenium\bin\Debug\WebDriver.xml
+C:\Pam training\Specflow\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Pam training\Specflow\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+C:\Pam training\Specflow\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Pam training\Specflow\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Pam training\Specflow\Selenium\obj\Debug\Selenium.dll
+C:\Pam training\Specflow\Selenium\obj\Debug\Selenium.pdb
+C:\Pam training\Specflow - Copy\Selenium\bin\Debug\Selenium.dll
+C:\Pam training\Specflow - Copy\Selenium\bin\Debug\Selenium.pdb
+C:\Pam training\Specflow - Copy\Selenium\bin\Debug\WebDriver.dll
+C:\Pam training\Specflow - Copy\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Pam training\Specflow - Copy\Selenium\bin\Debug\WebDriver.xml
+C:\Pam training\Specflow - Copy\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Pam training\Specflow - Copy\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+C:\Pam training\Specflow - Copy\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Pam training\Specflow - Copy\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Pam training\Specflow - Copy\Selenium\obj\Debug\Selenium.dll
+C:\Pam training\Specflow - Copy\Selenium\obj\Debug\Selenium.pdb

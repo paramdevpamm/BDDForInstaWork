@@ -12,13 +12,23 @@ namespace Selenium.Pages
     {
         public PageName PageName;
         public string BaseUrl;
-        private ChromeDriver WebDriver;
+        public IWebDriver WebDriver;
         private Collection<TestPage> Pages;
 
-        public AutomationTestSite()
+        public AutomationTestSite(string browser)
         {
-            WebDriver = new ChromeDriver();
-            BaseUrl = "http://automationpractice.com/index.php";
+            switch (browser.ToLower())
+            {
+                case "chrome":
+                    WebDriver = new ChromeDriver();
+                    WebDriver.Manage().Window.Maximize();
+                    break;
+                default:
+                    WebDriver = new ChromeDriver();
+                    WebDriver.Manage().Window.Maximize();
+                    break;
+            }
+            BaseUrl = "https://www.orbitz.com/";
             Pages = InitializePages();
         }
 
@@ -26,14 +36,12 @@ namespace Selenium.Pages
         {
             return new Collection<TestPage>
             {
-				new HomePage(WebDriver),
-				new SignInPage(WebDriver),
-				new CreateAccountPage(WebDriver),
-                new MyAccountPage(WebDriver)
+                new Home(WebDriver),
+                new CheckOut(WebDriver)
             };
         }
 
-        public void GoTo()
+        public void GoTo(string BaseUrl)
         {
             WebDriver.Navigate().GoToUrl(BaseUrl);
         }
@@ -79,11 +87,25 @@ namespace Selenium.Pages
             System.Threading.Thread.Sleep(5000);
         }
 
+        public void ClickOnElementWithDynamicXpath(PageName pageName, Element element, string xpath)
+        {
+            var locator = GetPage(pageName).GetLocator(element);
+            WebDriver.FindElement(By.XPath("//button[@aria-label='" + xpath + "']")).Click();
+            System.Threading.Thread.Sleep(5000);
+        }
+
         public void EnterTextIntoInputField(PageName pageName, Element element, string text)
         {
             var locator = GetPage(pageName).GetLocator(element);
             WebDriver.FindElement(locator.FindBy).SendKeys(text);
         }
+
+        public void PressEnterKey(PageName pageName, Element element)
+        {
+            var locator = GetPage(pageName).GetLocator(element);
+            WebDriver.FindElement(locator.FindBy).SendKeys(Keys.Enter);
+        }
+
 
         public void SelectDropDownOption(PageName pageName, Element element, string optionToSelect)
         {

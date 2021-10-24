@@ -36,3 +36,43 @@ C:\Projects\SpoQuality\SpecFlowSeleniumDemo\SpecFlow\obj\Debug\SpecFlow.csprojRe
 C:\Projects\SpoQuality\SpecFlowSeleniumDemo\SpecFlow\obj\Debug\SpecFlow.csproj.CoreCompileInputs.cache
 C:\Projects\SpoQuality\SpecFlowSeleniumDemo\SpecFlow\obj\Debug\SpecFlow.dll
 C:\Projects\SpoQuality\SpecFlowSeleniumDemo\SpecFlow\obj\Debug\SpecFlow.pdb
+C:\Pam training\Specflow\SpecFlow\bin\Debug\SpecFlow.dll.config
+C:\Pam training\Specflow\SpecFlow\bin\Debug\SpecFlow.dll
+C:\Pam training\Specflow\SpecFlow\bin\Debug\SpecFlow.pdb
+C:\Pam training\Specflow\SpecFlow\bin\Debug\Newtonsoft.Json.dll
+C:\Pam training\Specflow\SpecFlow\bin\Debug\nunit.framework.dll
+C:\Pam training\Specflow\SpecFlow\bin\Debug\Selenium.dll
+C:\Pam training\Specflow\SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Pam training\Specflow\SpecFlow\bin\Debug\WebDriver.dll
+C:\Pam training\Specflow\SpecFlow\bin\Debug\WebDriver.Support.dll
+C:\Pam training\Specflow\SpecFlow\bin\Debug\Selenium.pdb
+C:\Pam training\Specflow\SpecFlow\bin\Debug\Newtonsoft.Json.xml
+C:\Pam training\Specflow\SpecFlow\bin\Debug\nunit.framework.xml
+C:\Pam training\Specflow\SpecFlow\bin\Debug\WebDriver.xml
+C:\Pam training\Specflow\SpecFlow\bin\Debug\WebDriver.Support.xml
+C:\Pam training\Specflow\SpecFlow\obj\Debug\SpecFlow.csproj.AssemblyReference.cache
+C:\Pam training\Specflow\SpecFlow\obj\Debug\SpecFlow.csproj.CoreCompileInputs.cache
+C:\Pam training\Specflow\SpecFlow\obj\Debug\SpecFlow.csproj.CopyComplete
+C:\Pam training\Specflow\SpecFlow\obj\Debug\SpecFlow.dll
+C:\Pam training\Specflow\SpecFlow\obj\Debug\SpecFlow.pdb
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\Features\TestingAssignment.feature
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\Hooks\WebDriverSupport.cs
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\SpecFlow.dll.config
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\SpecFlow.dll
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\SpecFlow.pdb
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\Newtonsoft.Json.dll
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\nunit.framework.dll
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\Selenium.dll
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\WebDriver.dll
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\WebDriver.Support.dll
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\Selenium.pdb
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\Newtonsoft.Json.xml
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\nunit.framework.xml
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\WebDriver.xml
+C:\Pam training\Specflow - Copy\SpecFlow\bin\Debug\WebDriver.Support.xml
+C:\Pam training\Specflow - Copy\SpecFlow\obj\Debug\SpecFlow.csproj.AssemblyReference.cache
+C:\Pam training\Specflow - Copy\SpecFlow\obj\Debug\SpecFlow.csproj.CoreCompileInputs.cache
+C:\Pam training\Specflow - Copy\SpecFlow\obj\Debug\SpecFlow.csproj.CopyComplete
+C:\Pam training\Specflow - Copy\SpecFlow\obj\Debug\SpecFlow.dll
+C:\Pam training\Specflow - Copy\SpecFlow\obj\Debug\SpecFlow.pdb
